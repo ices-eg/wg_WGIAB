@@ -1,2 +1,2 @@
 # wg_WGIAB
-The Working Group on Integrated Assessments of the Baltic Sea (WGIAB)
+Joint ICES/HELCOM Working Group on Integrated Assessments of the Baltic Sea (WGIAB)
